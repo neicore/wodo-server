@@ -1,3 +1,3 @@
-# vanilla node with typescript
+# wodo server
 
-no express, no nest, just node with typescript configured. see the packege.json for scripts to use.
+backend for an overcomplicated wordle
